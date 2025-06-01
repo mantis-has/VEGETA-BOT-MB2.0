@@ -17,24 +17,24 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5216633900512', '⋆Creador ༺Ƹ (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉', true],
-  ['584146277368', '𝓔𝓶𝓶𝓪 𝓥𝓲𝓸𝓵𝓮𝓽𝓼 𝓥𝓮𝓻𝓼𝓲ó𝓷', true],
-  ['5491166401905', 'legend', true],
-  ['5216633900512', 'ʙʀᴀʏᴀɴ ᴏғᴄ', true],
-  ['5216671548329', 'Legna', true], 
-  ['50433191934', 'deylin', true], 
-  ['5212431268546', 'Tesis', true],  
-  ['50557865603', 'Niño piña', true], 
-  ['5218211111111', 'Papi chulo', true],
-  ['5216632130871', 'anthoan', true],
+  ['18293142989', '🩵CREADOR🩵', true],
+  ['18294868853', 'DIONEIBI-RIP', true],
+  ['52663390 0512', 'BrayanOfc', true],
+  ['50557333744', 'JonathanG', true],
+  ['56940429343', 'Abraham Ch', true], 
+  ['573181648603', 'HaroldOfc', true], 
+  ['18293142989', 'MakimaBot', true],  
+  ['18293142989', 'Makima oficial Bot', true], 
+  ['18293142989', 'M500 ULTRA BOT', true],
+  ['18293142989', 'Félix Manuel 2.0', true],
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['5216641804242', '584120515006', '5216633900512', '573004828388', '573154062343']
+global.mods = ['18293142989', '18293142989', '18293142989', '18293142989', '18293142989']
 global.suittag = ['584120346669']
 global.prems = []
-global.numcreador = '+52 663 390 0512'
+global.numcreador = '+1 829 314 2989'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -43,8 +43,8 @@ global.baileys = 'V 6.7.9'
 global.languaje = 'Español'
 global.vs = '2.1.5'
 global.vsJB = '5.0'
-global.nameqr = '𝚅𝙴𝙶𝙴𝚃𝙰 - 𝙱𝙾𝚃 - 𝙼𝙱2.0'
-global.namebot = '✿◟𝚅𝚎𝚐𝚎𝚝𝚊-𝙱𝚘𝚝-𝙼𝙱2.0◞✿'
+global.nameqr = '𝐌A͜͡𝑲𝑖𝐌ꪖ - 𝐁o͟T͎ - 𝙼𝙳'
+global.namebot = '𝐌A͜͡𝑲𝑖𝐌ꪖ - 𝐁o͟T͎ - 𝙼𝙳'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.VegetaJadibts = true
@@ -52,22 +52,22 @@ global.VegetaJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packsticker =`°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n✦ Bσƚ:\n✦ Pɾσριҽƚαɾισ:\n✦ Fҽƈԋα ԃҽ Cɾҽαƈιóɳ:\n✦ Hσɾα ԃҽ Cɾҽαƈιóɳ:\n♾━━━━━━━━`
-global.packsticker2 = `━━━━━━━━♾\n⪛·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0♱ ¨*:·⪜\n⋆ ༺Ƹ (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉\n⇝ ${moment.tz('america/Los_angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_angeles').format('HH:mm:ss')} \n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\nѕτιϲκєя ϐγ: 𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0`
+global.packsticker2 = `━━━━━━━━♾\n─̄͟͞⛛̵̅𝐌𝐚𝐤𝖎𝖒𝔞 ✠ 𝐁o͟t͜͡─̄͟͞🩵\nFélix Manuel\n⇝ ${moment.tz('america/Los_angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_angeles').format('HH:mm:ss')} \n°.⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.°\n\nѕτιϲκєя ϐγ: 𝐌A͜͡𝑲𝑖𝐌ꪖ - 𝐁o͟T͎ - 𝙼𝙳`
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `⪛✰¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0¨*:·`
-global.botname = '·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0♱ ¨*:·'
-global.wm = 'ৎ୭࠭͢𓆪͟͞ 𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0'
-global.author = 'Made By (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ  (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉'
-global.textbot = ' (ꐦ ◣‸◢) 𝙼𝙰𝚁𝚃𝙸𝙽𝙴𝚉 • P·:*¨♱𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙳2.0♱ ¨*:·'
+global.packname = `𝐌A͜͡𝑲𝑖𝐌ꪖ - 𝐁o͟T͎ - 𝙼𝙳`
+global.botname = '─̄͟͞⛛̵̅𝐌A͜͡𝑲𝑖𝐌ꪖ  𝐁o͟T͎ MD🩵'
+global.wm = '🩵̶۫̄͟Ⓜ︎𝐌𝐚𝐤𝖎𝖒𝔞 🝮︎︎︎︎︎︎︎ 𝐁o͟t͜͡么͟͞──'
+global.author = 'Made with Félix'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Félix Manuel'
+global.textbot = 'MakimaBot : Felix Manuel'
 
-global.moneda = 'dragones'
-global.welcom1 = 'Edita Con #setwelcome'
-global.welcom2 = 'Edita Con #setbye'
-global.banner = 'https://files.catbox.moe/j0z1kz.jpg'
-global.catalogo = 'https://files.catbox.moe/j0z1kz.jpg'
+global.moneda = 'Diamantes'
+global.welcom1 = 'Mucho gusto'
+global.welcom2 = 'Good Bye'
+global.banner = 'https://files.catbox.moe/nz7yzz.jpg'
+global.catalogo = 'https://files.catbox.moe/nz7yzz.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -95,15 +95,15 @@ global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp4 = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq'
-global.gp1 = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq' 
-global.gp2 = 'https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH'
-global.comunidad1 = 'https://chat.whatsapp.com/DiahfK9brw0Azwsk4R9tku'
-global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.channel2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.md = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.cn ='https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH';
+global.gp4 = 'https://chat.whatsapp.com/DEGsbJYf7BBDe8c7R2dUxU'
+global.gp1 = 'https://chat.whatsapp.com/E1gpC3hj6ZkG0CCEZ4isRs' 
+global.gp2 = 'https://chat.whatsapp.com/DEGsbJYf7BBDe8c7R2dUxU'
+global.comunidad1 = 'https://chat.whatsapp.com/IEK8CGIqrI5L7KYtMGJNnx'
+global.channel = 'https://whatsapp.com/channel/0029VbAa5sNCsU9Hlzsn651S'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAa5sNCsU9Hlzsn651S'
+global.md = 'https://whatsapp.com/channel/0029VbAOVajAO7RQt3rS683e'
+global.correo = 'https://whatsapp.com/channel/0029VbAOVajAO7RQt3rS683e'
+global.cn ='https://chat.whatsapp.com/IEK8CGIqrI5L7KYtMGJNnx';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -112,8 +112,8 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.ch = {
-ch1: '120363394965381607@newsletter',
-ch2: '120363394965381607@newsletter',
+ch1: '120363401697981206@newsletter',
+ch2: '120363418804796632@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -135,8 +135,8 @@ global.rpg = {
       diamond: '💎 Diamante',
       health: '❤️ Salud',
       kyubi: '🌀 Magia',
-      joincount: '💰 Token',
-      emerald: '♦️ Esmeralda',
+      joincount: '💰 Tokens',
+      emerald: '♦️ Esmerala',
       stamina: '⚡ Energía',
       role: '⚜️ Rango',
       premium: '🎟️ Premium',
