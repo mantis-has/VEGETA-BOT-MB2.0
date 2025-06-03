@@ -1,5 +1,5 @@
-<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱2.0 💨</h1>
- <p align="center">🌟 déjanos tu super estrella</p>
+<h1 align="center">🩵 ̸̷᮫໊᷐͢᷍ᰍ MAKIMA BOT MD</h1>
+ <p align="center">SUPER BOT PARA WHATSAPP</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+-+𝙼𝙱2.0;Gracias+por+preferirnos;Creado+por+BrayanOFC;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
