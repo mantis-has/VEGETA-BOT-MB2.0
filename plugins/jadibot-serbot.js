@@ -17,36 +17,35 @@ let crm3 = "SBpbmZvLWRvbmFyLmpz"
 let crm4 = "IF9hdXRvcmVzcG9uZGVyLmpzIGluZm8tYm90Lmpz"
 let drm1 = ""
 let drm2 = ""
-let rtx = `╭───────────────✎  
-│  ツ VEGETA - BOT MB2.0 ➳  
-╰───────────────✎  
-> ★ 𝗖𝗼𝗻𝗲𝘅𝗶ó𝗻 𝗦𝘂𝗯-𝗕𝗼𝘁 (𝗠𝗼𝗱𝗼 𝗤𝗥) ✈  
+let rtx = `《✧》 Makima SubBots.
+  
+❍━━❍ Modo QR❍ ━━❍   
+➪ Pasos de conexión con el bot:
 
-⟿ 𝐄𝐬𝐜𝐚𝐧𝐞𝐚 𝐞𝐬𝐭𝐞 𝐂𝐨́𝐝𝐢𝐠𝐨 𝐐𝐑 𝐜𝐨𝐧 𝐨𝐭𝐫𝐨 𝐜𝐞𝐥𝐮𝐥𝐚𝐫  
-𝐨 𝐝𝐞𝐬𝐝𝐞 𝐥𝐚 𝐏𝐂 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐫𝐭𝐞 𝐞𝐧 𝐮𝐧 *𝗦𝘂𝗯-𝗕𝗼𝘁 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗹*.  
+𝖤𝗇 𝗅𝖺 𝖯𝖢 𝗈 𝗍𝖾𝗅𝖾𝖿𝗈𝗇𝗈, 𝖾𝗌𝖼𝖺𝗇𝖾𝖺 𝖾𝗅 𝗌𝗂𝗀𝗎𝗂𝖾𝗇𝗍𝖾 𝖼𝗈𝖽𝗂𝗀𝗈 𝖰𝖱.
 
-➥ ❶ 𓂃 Toca los tres puntos en la esquina superior derecha.  
-➥ ❷ 𓂃 Ve a *"Dispositivos vinculados"*.  
-➥ ❸ 𓂃 Escanea este QR y conéctate al bot.  
 
-⚠ 𝐄𝐬𝐭𝐞 𝐜𝐨́𝐝𝐢𝐠𝐨 𝐐𝐑 𝐞𝐱𝐩𝐢𝐫𝐚 𝐞𝐧 ❺❹ 𝐬𝐞𝐠𝐮𝐧𝐝𝐨𝐬. 𝐍𝐨 𝐩𝐢𝐞𝐫𝐝𝐚𝐬 𝐭𝐢𝐞𝐦𝐩𝐨.  
+#1 :  𝖳𝗈𝖼𝖺 𝗅𝗈𝗌 𝗍𝗋𝖾𝗌 𝗉𝗎𝗇𝗍𝗈𝗌 𝖽𝖾 𝗅𝖺 𝖾𝗌𝗊𝗎𝗂𝗇𝖺 𝗌𝗎𝗉𝖾𝗋𝗂𝗈𝗋 𝖽𝖾𝗋𝖾𝖼𝗁𝖺.
+
+#2 : 𝖵𝖾 𝖺 𝖽𝗂𝗌𝗉𝗈𝗌𝗂𝗍𝗂𝗏𝗈𝗌 𝗏𝗂𝗇𝖼𝗎𝗅𝖺𝖽𝗈𝗌.
+
+#3 : 𝖤𝗌𝖼𝖺𝗇𝖾𝖺 𝖾𝗅 𝖼𝗈𝖽𝗂𝗀𝗈 𝗒 𝗌𝖾𝗋𝖺́𝗌 𝗎𝗇 𝖬𝖺𝗄𝗂𝗆𝖺 𝖡𝗈𝗍.
+
+⚠︎ 𝗘𝘀𝘁𝗲 𝗰𝗼𝗱𝗶𝗴𝗼 𝗲𝘅𝗽𝗶𝗿𝗮 𝗱𝗲𝘀𝗽𝘂𝗲𝘀 𝗱𝗲 𝗹𝗼𝘀 60 𝘀𝗲𝗴𝘂𝗻𝗱𝗼𝘀.
+> Made wiht Félix.  
 `;
 
-let rtx2 = `╭───────────────⍰  
-│  ✭ VEGETA - BOT MB2.0 ✰  
-╰───────────────⍰ 
-> ✰ 𝗖𝗼𝗻𝗲𝘅𝗶ó𝗻 𝗦𝘂𝗯-𝗕𝗼𝘁 (𝗠𝗼𝗱𝗼 𝗖𝗼́𝗱𝗶𝗴𝗼) ✪  
+let rtx2 = `《✧》 Makima SubBots.
+ 
+❍━━❍ Modo QR❍ ━━❍
+➪ Pasos de conexión con el bot: 
 
-⟿ 𝐔𝐬𝐚 𝐞𝐬𝐭𝐞 𝐜𝐨́𝐝𝐢𝐠𝐨 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐫𝐭𝐞 𝐞𝐧 𝐮𝐧 *𝗦𝘂𝗯-𝗕𝗼𝘁 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗹*.  
+#1 : Toca los tres puntos en la esquina superior derecha.  
+#2 : Ve a *"Dispositivos vinculados"*.  
+#3 : Selecciona *Vincular con el número de teléfono*.  
+#4 : Ingresa el código y conéctate con MakimaBot.  
 
-➥ ❶ 𓂃 Toca los tres puntos en la esquina superior derecha.  
-➥ ❷ 𓂃 Ve a *"Dispositivos vinculados"*.  
-➥ ❸ 𓂃 Selecciona *Vincular con el número de teléfono*.  
-➥ ❹ 𓂃 Ingresa el código y conéctate al bot.  
-
-⚠ 𝐒𝐢 𝐲𝐚 𝐞𝐬𝐭á𝐬 𝐜𝐨𝐧𝐞𝐜𝐭𝐚𝐝𝐨 𝐚 𝐨𝐭𝐫𝐚 𝐬𝐞𝐬𝐢ó𝐧, 𝐬𝐞 𝐫𝐞𝐜𝐨𝐦𝐢𝐞𝐧𝐝𝐚  
-𝐪𝐮𝐞 𝐭𝐞 𝐝𝐞𝐬𝐜𝐨𝐧𝐞𝐜𝐭𝐞𝐬. 𝐄𝐬𝐭𝐚𝐫 𝐞𝐧 𝐝𝐨𝐬 𝐩𝐮𝐞𝐝𝐞 𝐜𝐚𝐮𝐬𝐚𝐫 𝐞𝐫𝐫𝐨𝐫𝐞𝐬  
-𝐲 𝐮𝐧 𝐩𝐨𝐬𝐢𝐛𝐥𝐞 𝐛𝐚𝐧𝐞𝐨 𝐝𝐞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽.  
+⚠ Nota: Este codigo solo funciona en el número que lo solicitó.  
 `;
 
 const __filename = fileURLToPath(import.meta.url)
@@ -117,14 +116,14 @@ msgRetry,
 msgRetryCache,
 version: [2, 3000, 1015901307],
 syncFullHistory: true,
-browser: mcode ? ['Ubuntu', 'Chrome', '110.0.5585.95'] : ['vegeta-Bot (Sub Bot)', 'Chrome','2.0.0'],
+browser: mcode ? ['Ubuntu', 'Chrome', '110.0.5585.95'] : ['Makima (Prem-Bot)', 'Chrome','2.0.0'],
 defaultQueryTimeoutMs: undefined,
 getMessage: async (key) => {
 if (store) {
 //const msg = store.loadMessage(key.remoteJid, key.id)
 //return msg.message && undefined
 } return {
-conversation: 'vegeta-Bot MB2.0',
+conversation: 'Makima Bot MD',
 }}} 
 
 let sock = makeWASocket(connectionOptions)
