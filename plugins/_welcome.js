@@ -47,8 +47,8 @@ export async function before(m, { conn, participants, groupMetadata }) {
   let pais = obtenerPais(who);
 
   let frasesBienvenida = [
-    "¡Esperamos que disfrutes tu estadía!",
-    "Recuerda leer las reglas del grupo.",
+    "Disfruta tu estadia en este grupo.",
+    "Espero y leas la descripción.",
     "Diviértete y participa en las conversaciones.",
     "¡Un placer tenerte aquí!",
     "¡Bienvenido! Esperamos que la pases genial con nosotros.",
@@ -58,24 +58,25 @@ export async function before(m, { conn, participants, groupMetadata }) {
     "¡Suerte en tus proyectos futuros!",
     "Hasta la próxima, cuídate.",
     "Nos vemos en otra ocasión.",
-    "¡Fue un placer tenerte aquí! Mucho éxito.",
+    "¡Fue un placer tenerte aquí! Mucho gusto.",
   ];
 
   let fraseRandomBienvenida = frasesBienvenida[Math.floor(Math.random() * frasesBienvenida.length)];
   let fraseRandomDespedida = frasesDespedida[Math.floor(Math.random() * frasesDespedida.length)];
 
-  let imagenUrl = 'https://files.catbox.moe/56el7x.jpg';
+  let imagenUrl = 'https://files.catbox.moe/yuq36d.jpg';
 
   if (chat.welcome) {
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
       let bienvenida = `
-*╭━━〔 *Bienvenido/a* 〕━━⬣*
-*┃ Usuario:* ${taguser}
-*┃ País:* ${pais}
-*┃ Grupo:* *${groupMetadata.subject}*
-*┃ Miembros:* *${totalMembers + 1}*
-*┃ Fecha:* *${date}*
-*╰━▣*
+*━━━─────━━━─── 「 ✰BIENVENIDO✰ 」
+━━━─────━━━───*
+╭─➪「 ✐ ${taguser}  」
+│ 𝗕𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼  𝗮 ${groupMetadata.subject}
+│Miembros: ${totalMembers + 1}
+│Soy MakimaBot el bot tuyo 
+│y de todos.
+╰─━━━─────━━━─
 *${fraseRandomBienvenida}*
       `.trim();
 
@@ -91,13 +92,13 @@ export async function before(m, { conn, participants, groupMetadata }) {
       m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_REMOVE
     ) {
       let despedida = `
-*╭──〔 *Despedida* 〕──⬣*
-*┃ Usuario:* ${taguser}
-*┃ País:* ${pais}
-*┃ Grupo:* *${groupMetadata.subject}*
-*┃ Miembros:* *${totalMembers - 1}*
-*┃ Fecha:* *${date}*
-*╰━▣*
+*━━━─────━━━─── 
+「 ✰     𝐀𝐃𝐈𝐎𝐒     ✰ 」
+━━━─────━━━───*
+╭─➪「 ✐ ${taguser} 」
+│ Grupo: ${groupMetadata.subject}
+│Ahora somos ${totalMembers + 1}
+╰─━━━─────━━━─
 *${fraseRandomDespedida}*
       `.trim();
 
